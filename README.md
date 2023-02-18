@@ -30,7 +30,9 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-  
+  ### Contact me:
+
+<a href="https://www.linkedin.com/in/maycon-kabitschke-025937245/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
